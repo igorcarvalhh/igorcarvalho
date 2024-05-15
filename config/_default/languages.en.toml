@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Igor Carvalho"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "My Website"
+
+[author]
+name = "Igor Carvalho"
+headline = "Software engineering researcher"
+links = [ { github = "https://github.com/igorcarvalhh" } ]
+bio = "Software engineering researcher"
+image = "photo7.jpg"
