@@ -17,55 +17,59 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = false
+layout = "background"
+showRecent = true
 showRecentItems = "5"
 showMoreLink = true
 showMoreLinkDest = "/posts"
-cardView = true
-cardViewScreenWidth = false
+showHero = true
+cardView = false
+constrainItemsWidth = true
+homepageImage = "featured.png"
+layoutBackgroundHeaderSpace = true
 layoutBackgroundBlur = true
+cardViewScreenWidth = true
 
 [article]
 showDate = true
 showViews = false
 showLikes = false
-showDateOnlyInArticle = false
-showDateUpdated = false
+showDateOnlyInArticle = true
+showDateUpdated = true
 showAuthor = true
 showHero = true
-layoutBackgroundBlur = false
-layoutBackgroundHeaderSpace = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
-seriesOpened = false
+seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
-invertPagination = false
+invertPagination = true
 showReadingTime = true
 showTableOfContents = true
 showTaxonomies = true
-showAuthorsBadges = false
+showAuthorsBadges = true
 showWordCount = true
-showZenMode = false
-heroStyle = "basic"
+showZenMode = true
+heroStyle = "background"
 
 [list]
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
-showSummary = true
+showBreadcrumbs = true
+showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = true
+showTableOfContents = false
 showCards = false
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
 heroStyle = "background"
 
 [sitemap]

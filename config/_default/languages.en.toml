@@ -19,13 +19,9 @@ links = [
   { instagram = "https://www.instagram.com/igor.carvalhh/" },
   { dev = "contact@lealigor.com" },
   { dribbble = "contact@lealigor.com" },
-  { gitlab = "contact@lealigor.com" },
   { linkedin = "https://www.linkedin.com/in/igor-carvalho-ramos/" },
   { medium = "contact@lealigor.com" },
   { x-twitter = "contact@lealigor.com" },
-  { twitch = "contact@lealigor.com" },
-  { youtube = "contact@lealigor.com" },
-  { twitch = "contact@lealigor.com" },
 ]
 bio = "Software engineering researcher"
 image = "photo7.jpg"
