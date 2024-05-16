@@ -15,11 +15,11 @@ name = "Igor Carvalho"
 headline = "Software engineering researcher"
 links = [ 
   { github = "https://github.com/igorcarvalhh" },
-  { email = "contact@lealigor.com" },
-  { instagram = "https://www.instagram.com/igor.carvalhh/" },
+  { email = "mailto:contact@lealigor.com" },
   { linkedin = "https://www.linkedin.com/in/igor-carvalho-ramos/" },
-  { medium = "contact@lealigor.com" },
-  { x-twitter = "contact@lealigor.com" },
+  { medium = "https://medium.com/@oigorleal" },
+  { instagram = "https://www.instagram.com/igor.carvalhh/" },
+  { x-twitter = "https://twitter.com/oigor_leal/" },
 ]
 bio = "Software engineering researcher"
 image = "photo7.jpg"
