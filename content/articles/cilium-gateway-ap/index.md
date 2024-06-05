@@ -1,15 +1,15 @@
 ---
-title: "ERROR: user is not in not in sudoers file"
+title: "Como Resolver o Erro 'user is not in the sudoers file'"
 date: 2024-05-15
 draft: false
-description: "a description"
+description: ""
 tags: ["api", "tag", "http"]
 views: 52
 ---
 
-Normalmente, utilizo máquinas virtuais para desenvolver meus projetos pessoais e manter a organização deles. Essa abordagem permite que eu mantenha um ambiente isolado, com apenas as dependências necessárias para cada projeto específico.
+Geralmente, utilizo máquinas virtuais para desenvolver meus projetos pessoais e garantir sua organização. Essa abordagem possibilita a manutenção de um ambiente isolado, contendo apenas as dependências necessárias de cada projeto, promovendo uma maior eficiência e controle.
 
-Eventualmente, ao criar uma nova máquina virtual para um novo projeto, ao tentar executar algum comando com privilégios de administrador (sudo), deparo-me com o seguinte erro:
+Entretanto, ocasionalmente, ao criar uma nova máquina virtual para um projeto e tentar executar um comando com privilégios de administrador (sudo), me deparo com o seguinte erro:
 
 ```sh
 igor@ubuntu:~$ sudo ls
